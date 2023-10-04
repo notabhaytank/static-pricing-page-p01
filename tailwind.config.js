@@ -2,6 +2,8 @@
 module.exports = {
   content: ["./src/**/*.{html,js}"],
   theme: {
+
+  
     
     extend: {
       colors: {
@@ -10,6 +12,9 @@ module.exports = {
         secondary: '#180c5b',
         button: '#8b3bf0'
         // ...
+      },
+      fontFamily: {
+        montserrat: ['Montserrat', 'sans'],
       },
     },
   },
