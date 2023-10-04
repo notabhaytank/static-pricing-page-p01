@@ -744,6 +744,10 @@ video {
   margin-right: 1.25rem;
 }
 
+.mr-10 {
+  margin-right: 2.5rem;
+}
+
 .flex {
   display: flex;
 }
